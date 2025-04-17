@@ -1,4 +1,4 @@
-# O-CLAHE: Official Implementation
+# OCLAHE: Official Implementation
 
 [![DOI](https://img.shields.io/badge/DOI-10.21608%2Fijci.2023.212239.1111-blue)](https://doi.org/10.21608/ijci.2023.212239.1111)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
