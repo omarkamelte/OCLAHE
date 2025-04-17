@@ -213,10 +213,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- Omar Kamel
-- Khalid Amin
-- Noura Semary
-- Nagwa Aboelenien
+- PHD Candidate Omar Kamel,Msc
+- Prof Khalid Amin
+- Prof Noura Semary
+- Dr Nagwa Aboelenien
 
 ## Acknowledgements
 
