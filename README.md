@@ -99,6 +99,8 @@ enhanced_image = getRGBfromLAB(enhanced_l, a_channel, b_channel)
 # Save the enhanced image
 cv2.imwrite('enhanced_remote_sensing.png', enhanced_image)
 ```
+### Access public Kaggle notebook
+https://www.kaggle.com/code/omarmkamel/oclahe-v4
 
 ### Batch Processing
 
